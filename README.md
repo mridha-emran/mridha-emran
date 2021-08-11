@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Linkedin: anmol](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emran-mridha-developpeur-web-alternance/)]
-(https://www.linkedin.com/in/emran-mridha-developpeur-web-alternance/)
+[![Linkedin: anmol](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emran-mridha-developpeur-web-alternance/)](https://www.linkedin.com/in/emran-mridha-developpeur-web-alternance/)
+
 
 
 
